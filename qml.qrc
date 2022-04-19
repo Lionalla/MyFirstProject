@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PopWidget.qml</file>
+    </qresource>
+</RCC>
